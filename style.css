@@ -99,7 +99,7 @@ main {
 }
 
 form {
-	margin: 40px 0;
+	margin: 40px 30px;
 }
 
 form label, form legend {
@@ -138,7 +138,15 @@ form label, form legend {
 }
 
 table {
-	margin: 20px 0 40px;
+	margin: 40px 30px;
+}
+
+select {
+	padding: 10px;
+}
+
+option {
+	font-size: 20px;
 }
 
 thead {
